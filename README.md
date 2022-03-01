@@ -2,11 +2,7 @@
 
 Today we will be ....
 
-but first complete this poll
-
-
- polls new Tobi Loki Jane
-### If you need a refresher of todays presentation please follow this [link](https://docs.google.com/presentation/d/1GRg98F1XywcRTaKcQUPaYT0xAZytR4CvTtMcDWtW5C8/edit?usp=sharing)
+### If you need a refresher of todays presentation please follow this [link!](https://docs.google.com/presentation/d/1GRg98F1XywcRTaKcQUPaYT0xAZytR4CvTtMcDWtW5C8/edit?usp=sharing)
 
 You can use the [editor on GitHub](https://github.com/JasmineGarland/APPM5720/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -33,6 +29,8 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+
+![Congrats!](https://onehtmlpagechallenge.com/entries/adjustable-fireworks.html?auto=on&delayMin=200&delayMax=1000&randColor=firework&color=%23ff0000&brightnessMin=100&randSize=spark&sizeGrav=on&sizeMin=2&sizeMax=8&sparkDistMin=0&sparkDistMax=100&fireworkDistMin=1&fireworkDistMax=4&sparksMin=40&sparksMax=80&fadeMin=1000&fadeMax=2000&fadeDur=2000&gravityMin=100&gravityMax=200)
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
