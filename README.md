@@ -1,4 +1,8 @@
-## Welcome to our Code Tutorial!
+## Welcome to our APPM 4720-5720 Code Tutorial!
+
+Today we will be ....
+
+### If you need a refresher of todays presentation please follow this [link](https://docs.google.com/presentation/d/1GRg98F1XywcRTaKcQUPaYT0xAZytR4CvTtMcDWtW5C8/edit?usp=sharing)
 
 You can use the [editor on GitHub](https://github.com/JasmineGarland/APPM5720/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
