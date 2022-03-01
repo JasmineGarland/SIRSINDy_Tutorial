@@ -7,8 +7,6 @@ Today we will walk through a code tutorial investigating the SIR model for Measl
 
 ### Learning Objectives
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
 ```markdown
 
 Lets remember the SIR model framework
