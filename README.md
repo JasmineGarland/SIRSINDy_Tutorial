@@ -30,18 +30,16 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-<video src= https://www.youtube.com/watch?v=NKMHhm2Zbkw controls="controls" style="max-width: 730px;">
-   </video>
-
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
    
 ### Suggested Exercises
    
-'''markdown
+```markdown
+Syntax highlighted code block
+
+In code block x change y 
    
-In Line x change y
-   
-'''
+```
 
 ### Exercise Quiz
    Please fill out the following three questions about your observations!
