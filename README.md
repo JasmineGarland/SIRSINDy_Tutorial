@@ -2,13 +2,13 @@
 
 Today we will walk through a code tutorial investigating the SIR model for Measles, Chickenpox, and Rubella in Ortario, as discussed in <em>Algorithmic discovery of dynamic models from infectious disease data. <em>
 
-#### At any time if you need a refresher of todays presentation please follow this [link!](https://docs.google.com/presentation/d/1GRg98F1XywcRTaKcQUPaYT0xAZytR4CvTtMcDWtW5C8/edit?usp=sharing)
+*If you need a refresher of todays presentation please follow this [link!](https://docs.google.com/presentation/d/1GRg98F1XywcRTaKcQUPaYT0xAZytR4CvTtMcDWtW5C8/edit?usp=sharing)*
 
 You can use the [editor on GitHub](https://github.com/JasmineGarland/APPM5720/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Learning Objectives
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -34,7 +34,21 @@ Syntax highlighted code block
    </video>
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+   
+### Suggested Exercises
+   
+'''markdown
+   In Line x change y
+   
+'''
 
+### Exercise Quiz
+   Please fill out the following three questions about your observations!
+   The quiz may be found at this link (have not created quiz yet)
+   
+   
+   
+   
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JasmineGarland/APPM5720/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
