@@ -3,13 +3,9 @@
 Today we will be ....
 
 but first complete this poll
-/polls Option1 'Option 2' "Option 3"
 
-
-[![](https://api.gh-polls.com/poll/01BY7ECS60GG8F9AR1VMR8745S/Option1)]
-[![](https://api.gh-polls.com/poll/01BY7ECS60GG8F9AR1VMR8745S/Option%202)]
-[![](https://api.gh-polls.com/poll/01BY7ECS60GG8F9AR1VMR8745S/Option%203)]
-
+$ go get github.com/apex/gh-polls/cmd/polls**
+$ polls new Tobi Loki Jane
 ### If you need a refresher of todays presentation please follow this [link](https://docs.google.com/presentation/d/1GRg98F1XywcRTaKcQUPaYT0xAZytR4CvTtMcDWtW5C8/edit?usp=sharing)
 
 You can use the [editor on GitHub](https://github.com/JasmineGarland/APPM5720/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
