@@ -2,7 +2,7 @@
 
 Today we will walk through a code tutorial investigating the SIR model for Measles, Chickenpox, and Rubella in Ortario, as discussed in <em>Algorithmic discovery of dynamic models from infectious disease data. <em>
 
-*If you need a refresher of todays presentation please follow this [link!](https://docs.google.com/presentation/d/1GRg98F1XywcRTaKcQUPaYT0xAZytR4CvTtMcDWtW5C8/edit?usp=sharing)*
+**If you need a refresher of todays presentation please follow this [link!](https://docs.google.com/presentation/d/1GRg98F1XywcRTaKcQUPaYT0xAZytR4CvTtMcDWtW5C8/edit?usp=sharing)**
 
 You can use the [editor on GitHub](https://github.com/JasmineGarland/APPM5720/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -38,7 +38,8 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 ### Suggested Exercises
    
 '''markdown
-   In Line x change y
+   
+In Line x change y
    
 '''
 
