@@ -1,6 +1,6 @@
 ## Welcome to our APPM 4720-5720 Code Tutorial!
 
-Today we will walk through a code tutorial investigating the SIR model for Measles, Chickenpox, and Rubella in Ortario, as discussed in <em>Algorithmic discovery of dynamic models from infectious disease data. <em>
+Today we will walk through a code tutorial investigating an SIR model for Measles, Chickenpox, and Rubella in Ortario, as discussed in <em>Algorithmic discovery of dynamic models from infectious disease data. <em>
 
 **If you need a refresher of todays presentation please follow this [link!](https://docs.google.com/presentation/d/1GRg98F1XywcRTaKcQUPaYT0xAZytR4CvTtMcDWtW5C8/edit?usp=sharing) You may also find the publication [here.](https://doi.org/10.1038/s41598-020-63877-w)**
 
@@ -14,7 +14,7 @@ Lets remember the SIR model framework
 specfically lets focus on
    
 - learning objective 
-- learning objective
+- Observe and undernoise the impact of introducing noise to simulated data and the impacts on the SINDy outputs. 
 - learning objective
 
 
