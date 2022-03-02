@@ -13,7 +13,7 @@ Lets remember the SIR model framework
    $$ equation $$
 specfically lets focus on
    
-- learning objective 
+- Effects of changing the sparsity knob $\lambda$.
 - Observe and undernoise the impact of introducing noise to simulated data and the impacts on the SINDy outputs. 
 - learning objective
 
@@ -28,7 +28,8 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 ```markdown
 Syntax highlighted code block
 
-In code block x change y 
+- Recall that the paper used S_0 = 0.11286 and $\lambda$ = 0.00517, provided in code file x in line y. Change these values and observe the difference.
+- 
    
 ```
 
