@@ -29,7 +29,8 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 Syntax highlighted code block
 
 - Recall that the paper used S_0 = 0.11286 and $\lambda$ = 0.00517, provided in code file x in line y. Change these values and observe the difference.
-- 
+- ![formula](https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1)
+
    
 ```
 
