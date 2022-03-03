@@ -35,12 +35,17 @@ To achieve the learning objectives we have prepared the exercises below.
 ```markdown
 Syntax highlighted code block
 
-#### Exercise One
-   1. Fix lambda to 0.005
-   2. With the fixed lambda run the initial condition (SO in line x) as 5e-05
-   3. With the fixed lambda comment out SO and active the S0vec (in line x), notice how slightly larger and smaller values impact the model.
+**Exercise One**
+   1. Fix lambda to 0.005 (in line x)
+   2. With the fixed lambda run the initial condition (SO in line x) as 5E-05
+   3. With the fixed lambda comment out SO and active the SOvec (in line x), notice how slightly larger and smaller values impact the model.
 
-#### Exercise Two
+**Exercise Two**
+   1. Deactivate SOvec and change SO to be fixed at 5E-05
+   2. Deactivate lambda (in line x)
+   3. Activate lambdavec, notice how sparsity impacts the model. 
+ 
+**Exercise Three**
    
 ```
 <>
