@@ -24,7 +24,8 @@ The two main files we will work on today are **main_sirmodel_continuous.m** and 
 - Differences in discreate and continous SINDy.
 - Sensitivity of inital conditions. 
 - Effects of changing the sparsity knob.
-- How key parameters such as birthrate and how long an individual is for, impact the overall results.
+- How key parameters such as birthrate and how long an individual is 
+   for, impact the overall results.
 - The impacts of noise on the data.
 ```
 
@@ -38,7 +39,8 @@ Syntax highlighted code block
 **Exercise One**
    1. Fix lambda to 0.005 (in line x)
    2. With the fixed lambda run the initial condition (SO in line x) as 5E-05
-   3. With the fixed lambda comment out SO and active the SOvec (in line x), notice how slightly larger and smaller values impact the model.
+   3. With the fixed lambda comment out SO and active the SOvec (in line x), 
+   notice how slightly larger and smaller values impact the model.
 
 **Exercise Two**
    1. Deactivate SOvec and change SO to be fixed at 5E-05
@@ -47,12 +49,15 @@ Syntax highlighted code block
  
 **Exercise Three**
    1. Deactive lambdavec and set lambda back to 0.005 (line x)
-   2. In line x and x uncomment the noise parameter to add noise to the data, how does this impact the results?
+   2. In line x and x uncomment the noise parameter to add noise to the data, 
+   how does this impact the results?
    
 **Exercise Four**
    1. Comment the noise parameters back out in line x and x. 
-   2. In line x change g from 1/5 to 1/10 (infectious for 10 days rather than 5), how does this change the graphs and what does this mean?
-   3. Change g back to 1/5 and change mu (the birthrate in line x) from 8E-04 to 8E-03 and then 9E-05, what do you see?
+   2. In line x change g from 1/5 to 1/10 (infectious for 10 days rather than 5), 
+   how does this change the graphs and what does this mean?
+   3. Change g back to 1/5 and change mu (the birthrate in line x) from 8E-04 
+   to 8E-03 and then 9E-05, what do you see?
    
 ```
 <>
