@@ -26,10 +26,8 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 ```markdown
 Syntax highlighted code block
 
-- Recall that the paper used ```math
-SE = \frac{\sigma}{\sqrt{n}}
-``` S_0 = 0.11286 and $\lambda$ = 0.00517, provided in code file x in line y. Change these values and observe the difference.
-- ![formula](https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1)
+- Recall that the paper used $S_{0} = 0.11286$ and lambda = 0.00517, provided in code file x in line y. Change these values and observe the difference.
+
 
    
 ```
