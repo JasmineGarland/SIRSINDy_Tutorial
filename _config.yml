@@ -7,4 +7,5 @@ gist:
   noscript: false
 kramdown:
   math_engine: mathjax
+   mathjax: true
   syntax_highlighter: rouge
