@@ -35,11 +35,7 @@ Syntax highlighted code block
 
    
 ```
-
-### Exercise Quiz
-   Please fill out the following three questions about your observations!
-   The quiz may be found at this link (have not created quiz yet)
-   
+<>
    
    
    
