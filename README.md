@@ -35,6 +35,7 @@ To achieve the learning objectives we have prepared the exercises below.
 **Exercise One**
 1. Run both the continuous and discrete models.
 2. Compare the termspars
+   
 Spoiler: the plots may give some insight as to why we suggest completeing exercise two-five only with the continuous model.
    
 Recalling in <em> Algorithmic discovery of dynamic models from infectious disease data. <em> SINDy is applied to a grid of possible values for the initial number of susceptible individuals and the sparsity knob (lambda).
