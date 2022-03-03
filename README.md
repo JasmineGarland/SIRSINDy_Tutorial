@@ -21,7 +21,7 @@ The two main files we will work on today are **main_sirmodel_continuous.m** and 
 - Differences in discreate and continous SINDy.
 - Sensitivity of inital conditions. 
 - Effects of changing the sparsity knob.
-- How key parameters such as birthrate and how long an individual is for, impact the overall results.
+- How key parameters such as birthrate and how long an individual is infectious for, impact the overall results.
 - The impacts of noise on the data.
 
 
