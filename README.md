@@ -9,7 +9,6 @@ Today we will walk through a code tutorial investigating an SIR and SINDy model 
   Today we walk through two scripts, one for discrete SINDy and one for continuous SINDy. The poolData script may seem familar from a previous class, however we modified the script to include the seasonal term 
    
  ![Image](/SIRSINDy_Tutorial/docs/assets/Picture1.png)
-)
   
 hint: remember this when you see oscillations in the plots!
 
