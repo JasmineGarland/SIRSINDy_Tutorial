@@ -25,11 +25,12 @@ Today our goal is for you to learn:
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
    
 ### Suggested Exercises
+  $$x^{3}$$
    
 ```markdown
 Syntax highlighted code block
 
-- Recall that the paper used $S_{0} = 0.11286$ and $$\lambda$$ = 0.00517, provided in code file x in line y. Change these values and observe the difference.
+- Recall that the paper used $$S_{0} = 0.11286$$ and $$\lambda$$ = 0.00517$$, provided in code file x in line y. Change these values and observe the difference.
 
 
    
