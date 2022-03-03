@@ -16,39 +16,35 @@ The two main files we will work on today are **main_sirmodel_continuous.m** and 
   
 
 ### Learning Objectives
-  
-
-```markdown
+ 
 
 - Differences in discreate and continous SINDy.
 - Sensitivity of inital conditions. 
 - Effects of changing the sparsity knob.
-- How key parameters such as birthrate and how long an individual is 
-   for, impact the overall results.
+- How key parameters such as birthrate and how long an individual is for, impact the overall results.
 - The impacts of noise on the data.
-```
+
 
 To achieve the learning objectives we have prepared the exercises below.
   
 ### Suggested Exercises
 
    **For exercises two-five we sugguest using the continuous model at first, and then move to the discrete model if there is time.**
-   
-```markdown
 
-Exercise One  
+
+**Exercise One**
 1. Run both the continuous and discrete models.
 2. Compare the termspars
 Spoiler: the plots may give some insight as to why we suggest completeing exercise two-five only with the continuous model.
    
 Recalling in <em> Algorithmic discovery of dynamic models from infectious disease data. <em> SINDy is applied to a grid of possible values for the initial number of susceptible individuals and the sparsity knob (lambda).
 
-Exercise Two
+**Exercise Two**
 1. Fix lambda to 0.005 (in line x)
 2. With the fixed lambda run the initial condition (SO in line x) as 5E-05
 3. With the fixed lambda comment out SO and active the SOvec (in line x), notice how slightly larger and smaller values impact the model.
 
-Exercise Three
+**Exercise Three**
  
 1. Deactivate SOvec and change SO to be fixed at 5E-05
 2. Deactivate lambda (in line x)
@@ -56,23 +52,17 @@ Exercise Three
    
 <em> Algorithmic discovery of dynamic models from infectious disease data. <em> found there is an optimal region in the plane that ensures SINDy will produce regularized, accurate models from empirical disease data.
 
-Exercise Four
+**Exercise Four**
 1. Deactive lambdavec and set lambda back to 0.005 (line x)
 2. In line x and x uncomment the noise parameter to add noise to the data, 
 how does this impact the results?
    
-Exercise Five
+**Exercise Five**
 1. Comment the noise parameters back out in line x and x. 
 2. In line x change g from 1/5 to 1/10 (infectious for 10 days rather than 5), 
 how does this change the graphs and what does this mean?
 3. Change g back to 1/5 and change mu (the birthrate in line x) from 8E-04 
 to 8E-03 and then 9E-05, what do you see?
    
-```
-<>
    
-   
-   
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+ 
