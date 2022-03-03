@@ -1,5 +1,7 @@
 ## Welcome to our APPM 4720-5720 Code Tutorial!
 
+**If you need a refresher of todays presentation please follow this [link!](https://docs.google.com/presentation/d/1GRg98F1XywcRTaKcQUPaYT0xAZytR4CvTtMcDWtW5C8/edit?usp=sharing) You may also find the publication [here.](https://doi.org/10.1038/s41598-020-63877-w)**
+
 Today we will walk through a code tutorial investigating an SIR model along with a continuous and discrete SINDy model. Please download the code at [put link here] which will contain six .m files. 
 
 The poolData scripts may seem familar from a previous class, however we modified the script to include the seasonal term:
@@ -10,16 +12,14 @@ used in <em> Algorithmic discovery of dynamic models from infectious disease dat
    
 Note: remember this when you see oscillations in the plots!
 
-The two main files we will work on today are 'main_sirmodel_continuous.m' and 'main_sirmodel_discrete.m' as there names suggest one file contains the continuous model while the other contains the discrete model.
+The two main files we will work on today are **main_sirmodel_continuous.m** and **main_sirmodel_discrete.m** as there names suggest one file contains the continuous model while the other contains the discrete model.
   
-**If you need a refresher of todays presentation please follow this [link!](https://docs.google.com/presentation/d/1GRg98F1XywcRTaKcQUPaYT0xAZytR4CvTtMcDWtW5C8/edit?usp=sharing) You may also find the publication [here.](https://doi.org/10.1038/s41598-020-63877-w)**
-
 
 ### Learning Objectives
   
 
 ```markdown
-#### Today our goal is for you to learn:
+# Today our goal is for you to learn:
 
 - Differences in discreate and continous SINDy.
 - Sensitivity of inital conditions. 
