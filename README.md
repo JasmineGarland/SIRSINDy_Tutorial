@@ -2,7 +2,7 @@
 
 **If you need a refresher of todays presentation please follow this [link!](https://docs.google.com/presentation/d/1GRg98F1XywcRTaKcQUPaYT0xAZytR4CvTtMcDWtW5C8/edit?usp=sharing) You may also find the publication [here.](https://doi.org/10.1038/s41598-020-63877-w)**
 
-Today we will walk through a code tutorial investigating an SIR model along with a continuous and discrete SINDy model. Please **download the code at** [this link](https://github.com/JasmineGarland/SIRSINDy_Tutorial/tree/main/CodeTutorial) which will contain six .m files. 
+Today we will walk through a code tutorial investigating an SIR model along with a continuous and discrete SINDy model. Please **download the code at this** [link](https://github.com/JasmineGarland/SIRSINDy_Tutorial/tree/main/CodeTutorial) which will contain six .m files. 
 
 The poolData scripts may seem familar from a previous class, however we modified the script to include the seasonal term:
    
