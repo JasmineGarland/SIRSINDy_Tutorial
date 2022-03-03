@@ -1,16 +1,18 @@
 ## Welcome to our APPM 4720-5720 Code Tutorial!
 
-Today we will walk through a code tutorial investigating an SIR and SINDy model for Measles, Chickenpox, and Rubella in Ortario, as discussed in <em>Algorithmic discovery of dynamic models from infectious disease data. <em>
+Today we will walk through a code tutorial investigating an SIR model along with a continuous and discrete SINDy model. Please download the code at [put link here] which will contain six .m files. 
 
-**If you need a refresher of todays presentation please follow this [link!](https://docs.google.com/presentation/d/1GRg98F1XywcRTaKcQUPaYT0xAZytR4CvTtMcDWtW5C8/edit?usp=sharing) You may also find the publication [here.](https://doi.org/10.1038/s41598-020-63877-w)**
-
-  
-  
-  Today we walk through two scripts, one for discrete SINDy and one for continuous SINDy. The poolData script may seem familar from a previous class, however we modified the script to include the seasonal term 
+The poolData scripts may seem familar from a previous class, however we modified the script to include the seasonal term 
    
  ![Image](/SIRSINDy_Tutorial/docs/assets/Picture1.png)
   
+used in <em> Algorithmic discovery of dynamic models from infectious disease data. <em>
 hint: remember this when you see oscillations in the plots!
+
+The two main files we will work on today are 'main_sirmodel_continuous.m' and 'main_sirmodel_discrete.m' as there names suggest one file contains the continuous model while the other contains the discrete model.
+  
+**If you need a refresher of todays presentation please follow this [link!](https://docs.google.com/presentation/d/1GRg98F1XywcRTaKcQUPaYT0xAZytR4CvTtMcDWtW5C8/edit?usp=sharing) You may also find the publication [here.](https://doi.org/10.1038/s41598-020-63877-w)**
+
 
 ### Learning Objectives
   
