@@ -43,9 +43,16 @@ Syntax highlighted code block
 **Exercise Two**
    1. Deactivate SOvec and change SO to be fixed at 5E-05
    2. Deactivate lambda (in line x)
-   3. Activate lambdavec, notice how sparsity impacts the model. 
+   3. Activate lambdavec, notice how sparsity impacts the model
  
 **Exercise Three**
+   1. Deactive lambdavec and set lambda back to 0.005 (line x)
+   2. In line x and x uncomment the noise parameter to add noise to the data, how does this impact the results?
+   
+**Exercise Four**
+   1. Comment the noise parameters back out in line x and x. 
+   2. In line x change g from 1/5 to 1/10 (infectious for 10 days rather than 5), how does this change the graphs and what does this mean?
+   3. Change g back to 1/5 and change mu (the birthrate in line x) from 8E-04 to 8E-03 and then 9E-05, what do you see?
    
 ```
 <>
